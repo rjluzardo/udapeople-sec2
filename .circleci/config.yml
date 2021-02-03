@@ -15,7 +15,6 @@ jobs:
           command: |
             # Your code here
             #
-            cd backend
             npm install
       #- save_cache:
       #    paths: [frontend/node_modules]
